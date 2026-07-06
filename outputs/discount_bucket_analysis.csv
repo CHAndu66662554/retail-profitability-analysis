@@ -1,0 +1,5 @@
+Discount Bucket,avg_profit_margin,total_profit,order_count,pct_unprofitable
+High (40%+),-1.089,-99558.59,933,1.0
+Low (0-20%),0.174,100785.474,3803,0.138
+Medium (20-40%),-0.167,-35817.466,460,0.902
+No Discount,0.34,320987.603,4798,0.0
